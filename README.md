@@ -156,6 +156,6 @@ Thai crosslingual summarization datasets including TH2EN, TH2ZH, test and valida
 <h2 id="ACKNOWLEDGEMENT">ACKNOWLEDGEMENT</h2>
 
 * These cross-lingual datasets and the experiments are parts of [Nakhun Chumpolsathien](https://www.linkedin.com/in/nakhun) ’s master’s thesis at school of computer science, Beijing Institute of Technology. Therefore, as well, a great appreciation goes to his supervisor, [Assoc. Prof. Gao Yang](https://www.researchgate.net/profile/Yang-Gao-60).
-* Shout out to <a herf='https://www.linkedin.com/in/tanachart'>Tanachat Arayachutinan</a> for the initial data processing and for including me 麻辣烫, 黄焖鸡.
+* Shout out to [Tanachat Arayachutinan](https://www.linkedin.com/in/tanachart) for the initial data processing and for introducing me 麻辣烫, 黄焖鸡.
 * We would like to thank Beijing Engineering Research Center of High Volume Language Information Processing and Cloud Computing Applications for providing computing resources to conduct the experiment.
 * In this experiment, we used [PyThaiNLP v. 2.2.4](https://pypi.org/project/pythainlp/2.2.4/) to tokenize (on both word & sentence levels) Thai texts. For Chinese and English segmentation, we used Stanza.
