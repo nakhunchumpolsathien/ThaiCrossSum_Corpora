@@ -1,0 +1,7 @@
+pythainlp
+pandas
+stanza
+torch
+torchvision
+rouge
+bert_score

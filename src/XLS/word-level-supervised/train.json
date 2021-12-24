@@ -1,0 +1,33 @@
+{
+    "train": [
+        "mt.train.src",
+        "mt.train.tgt",
+        "xls.train.src",
+        "xls.train.tgt"
+    ],
+    "valid": [
+        "mt.valid.src",
+        "mt.valid.tgt",
+        "xls.valid.src",
+        "xls.valid.tgt"
+    ],
+    "vocab": [
+        "vocab.src",
+        "vocab.tgt"
+    ],
+    "score_file1": "mt.score",
+    "score_file2": "xls.score",
+    "layers": 6,
+    "heads": 8,
+    "hidden_size": 512,
+    "ff_size": 2048,
+    "model_path": "model_path",
+    "batch_size": 2048,
+    "grad_accum": 2,
+    "report_every": 100,
+    "save_every": 10000,
+    "warm_up": 16000,
+    "tf": true,
+    "share_cn_embedding": true,
+    "max_to_keep": 10
+}

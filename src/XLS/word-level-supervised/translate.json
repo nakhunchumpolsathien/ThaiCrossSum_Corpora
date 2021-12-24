@@ -1,0 +1,19 @@
+{
+    "input": [
+        "mt.src",
+        "xls.src"
+    ],
+    "vocab": [
+        "vocab.src",
+        "vocab.tgt"
+    ],
+    "model_path": "model_path",
+    "mono": false,
+    "min_length": 2,
+    "batch_size": 2000,
+    "tf": false,
+    "output": [
+        "mt.out",
+        "xls.out"
+    ]
+}
