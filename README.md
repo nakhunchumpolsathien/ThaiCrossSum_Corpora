@@ -43,8 +43,8 @@ Click the file name to download.
 
 | File         | Number of Articles | Size    |
 | ---------------- | -------------------- | --------- |
-|[th2en_full.csv](https://forms.gle/5CLtarsCd2iTMcrK9) | 310,926            | 2.96 GB |
-|[th2zh_full.csv](https://forms.gle/4coyjv4V6Q1zCMKb8) | 310,926            | 2.81 GB |
+|[th2en_full.csv](https://docs.google.com/forms/d/e/1FAIpQLSeZ5dnJKpuoe7a2SsU9QKAaPEFPm5uZukw5RyTdilsUFTe9Rw/viewform?usp=sf_link) | 310,926            | 2.96 GB |
+|[th2zh_full.csv](https://docs.google.com/forms/d/e/1FAIpQLScxpmxfPVhkyO3gCZRC8kO3jbQtjlUSPUcUjUzY3r7Jyx8QOA/viewform?usp=sf_link) | 310,926            | 2.81 GB |
 |[testset.csv](https://bit.ly/thcls_test)    | 3,000              | 44 MB   |
 |[validation.csv](https://bit.ly/thcls_validation) | 3,000              | 43 MB   |
 
@@ -156,6 +156,6 @@ Thai crosslingual summarization datasets including TH2EN, TH2ZH, test and valida
 <h2 id="ACKNOWLEDGEMENT">ACKNOWLEDGEMENT</h2>
 
 * These cross-lingual datasets and the experiments are parts of [Nakhun Chumpolsathien](https://www.linkedin.com/in/nakhun) ’s master’s thesis at school of computer science, Beijing Institute of Technology. Therefore, as well, a great appreciation goes to his supervisor, [Assoc. Prof. Gao Yang](https://www.researchgate.net/profile/Yang-Gao-60).
-* Shout out to [Tanachat Arayachutinan](https://www.linkedin.com/in/tanachart) for the initial data processing and for introducing me 麻辣烫, 黄焖鸡.
+* Shout out to [Tanachat Arayachutinan](https://www.linkedin.com/in/tanachart) for the initial data processing and for introducing me to 麻辣烫, 黄焖鸡.
 * We would like to thank Beijing Engineering Research Center of High Volume Language Information Processing and Cloud Computing Applications for providing computing resources to conduct the experiment.
 * In this experiment, we used [PyThaiNLP v. 2.2.4](https://pypi.org/project/pythainlp/2.2.4/) to tokenize (on both word & sentence levels) Thai texts. For Chinese and English segmentation, we used Stanza.
