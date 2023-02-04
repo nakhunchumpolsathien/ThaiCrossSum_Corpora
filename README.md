@@ -89,8 +89,8 @@ Please refer to [th2enzh_data_exploration.ipynb](th2enzh_data_exploration.ipynb)
   <tr>
     <td>TNCLS</td>
     <td><a href="https://arxiv.org/pdf/1909.00156.pdf">Zhu et al., 2019</a></td>
+    <td><a href="https://nakhun-chumpolsathien.oss-us-west-1.aliyuncs.com/th_cls/models/ncls_base_th2en-full-20230204T131638Z-001.zip">Available</a></td>
     <td><center>-</center></td>
-    <td><a href="https://drive.google.com/drive/folders/1lppUOnkYH_R1btxVcgy7qTpHtg1k0hW6?usp=sharing">Available</a></td>
     <td><center>-</center></td>
     <td><center>-</center></td>
 
@@ -98,7 +98,7 @@ Please refer to [th2enzh_data_exploration.ipynb](th2enzh_data_exploration.ipynb)
   <tr>
     <td>CLS+MS</td>
     <td><a href="https://arxiv.org/pdf/1909.00156.pdf">Zhu et al., 2019</a></td>
-    <td><span style="font-weight:400;font-style:normal"><a href="https://drive.google.com/drive/folders/1KbrGujMjwA1ywko2kg9CRgqo4G86ON0c?usp=sharing">Available</a></span></td>
+    <td><span style="font-weight:400;font-style:normal"><a href="https://nakhun-chumpolsathien.oss-us-west-1.aliyuncs.com/th_cls/models/ncls_2task_eng_full-20230204T122728Z-001.zip">Available</a></span></td>
     <td><center>-</center></td>
     <td><center>-</center></td>
     <td><center>-</center></td>
@@ -106,17 +106,17 @@ Please refer to [th2enzh_data_exploration.ipynb](th2enzh_data_exploration.ipynb)
   <tr>
     <td>CLS+MT</td>
     <td><a href="https://arxiv.org/pdf/1909.00156.pdf">Zhu et al., 2019</a></td>
-    <td><span style="font-weight:400;font-style:normal"><a href="https://drive.google.com/drive/folders/1ZMMzRWMbTDlOU2nO2rfgBTRhcX9AbGMl?usp=sharing">Available</a></span></td>
+    <td><span style="font-weight:400;font-style:normal"><a href="https://nakhun-chumpolsathien.oss-us-west-1.aliyuncs.com/th_cls/models/ncls_2tasm%2B_en_full-20230204T123000Z-001.zip">Available</a></span></td>
     <td><center>-</center></td>
-    <td><a style="font-weight:400;font-style:normal"><a href="https://drive.google.com/drive/folders/1-XhwntEIdLfEfsCjLQTLPH9RodRjRaUF?usp=sharing">Available</a></span></td>
+    <td><a style="font-weight:400;font-style:normal"><a href="https://nakhun-chumpolsathien.oss-us-west-1.aliyuncs.com/th_cls/models/ncls_2task%2B_full-20230204T123205Z-001.zip">Available</a></span></td>
     <td><center>-</center></td>
   </tr>
   <tr>
     <td>XLS – RL-ROUGE</td>
     <td><a href="https://arxiv.org/pdf/2006.15454.pdf">Dou et al., 2020</a></td>
-    <td><span style="font-weight:400;font-style:normal"><a href="https://drive.google.com/drive/folders/1G7L_iYDZG_duvXdcpZOkSHkocJITeDj4?usp=sharing">Available</a></span></td>
+    <td><span style="font-weight:400;font-style:normal"><a href="https://nakhun-chumpolsathien.oss-us-west-1.aliyuncs.com/th_cls/models/full-dataset-20230204T123032Z-001.zip">Available</a></span></td>
     <td><center>-</center></td>
-    <td><span style="font-weight:400;font-style:normal"><a href="https://drive.google.com/drive/folders/12pgMiedoQw4nStJvOd2ifEUmTg5BLpBX?usp=sharing">Available</a></span></td>
+    <td><span style="font-weight:400;font-style:normal"><a href="https://nakhun-chumpolsathien.oss-us-west-1.aliyuncs.com/th_cls/models/th2zh-full-20230204T123022Z-001.zip">Available</a></span></td>
     <td><center>-</center></td>
   </tr>
 </tbody>
