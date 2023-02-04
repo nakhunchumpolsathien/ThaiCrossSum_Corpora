@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>XLS</td>
-    <td><a href="">zdou0830/crosslingual_summarization_semantic</a></td>
+    <td><a href="https://github.com/zdou0830/crosslingual_summarization_semantic">zdou0830/crosslingual_summarization_semantic</a></td>
     <td><a href="https://arxiv.org/pdf/2006.15454.pdf">A Deep Reinforced Model for Zero-Shot Cross-Lingual Summarization with Bilingual Semantic Similarity Rewards</a></td>
     <td><a href="https://github.com/ZNLP/NCLS-Corpora/blob/master/LICENSE.md">BSD License</a></td>
   </tr>
